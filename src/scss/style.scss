@@ -1,0 +1,9 @@
+@import "./config.scss";
+
+body,
+html {
+  background-color: $dark-color;
+  color: $light-color;
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
